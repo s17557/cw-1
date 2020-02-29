@@ -1,2 +1,3 @@
-# cw-1
-Łukasz Nickel 23c s17557
+# Łukasz Nickel
+# s17557@pjwstk.edu.pl
+# 23c s17557
